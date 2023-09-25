@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabOne</string>
+    <string name="hello_message">Guten Tag!</string>
+    <string name="ButtonText">I\'m a button</string>
+</resources>
